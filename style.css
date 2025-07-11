@@ -1,0 +1,29 @@
+table {
+  border: solid;
+  border-color: darkgreen;
+  border-width: 3px;
+}
+
+caption {
+  background-color: darkgreen;
+}
+
+td,
+th {
+  border: solid;
+  border-color: darkgreen;
+  border-width: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h4 {
+  color: black;
+  text-decoration: underline;
+}
+.titre_tableau {
+  color: white;
+  text-decoration: solid;
+  text-align: center;
+  text-size-adjust: 14px;
+}
